@@ -1,4 +1,14 @@
-let latinMottos = ['', '', '', '', '', '', '', '', '', ''];
+let latinMottos = [
+    'Finis coronat opus', 
+    'Timendi causa est nescire', 
+    'Faber est suae quisque fortunae', 
+    'Aquila non capit muscas', 
+    'Non ducor duco', 
+    'Qui totum vult totum perdit', 
+    'Malum consilium quod mutari non potest', 
+    'Libertas perfundet omnia luce', 
+    'Amor vincit omnia', 
+    'Ars longa, vita brevis'];
 let aperitifs = ['Negroni', 'Aperol Spritz', 'Campari', 'Autumn Leaves', 'Martini', 'Gin Tonic', 'Manhatan', 'Margarita', 'Mojito', 'Cosmopolitan'];
 let cuisines = ['French', 'Scandinavian', 'Middle East', 'Chinese', 'Japanese', 'Greek', 'Italian', 'Mediterranean', 'Indian', 'Near East'];
 const eveningRecommendation = () => {
